@@ -1,11 +1,9 @@
-# Weather Application
-
-This is a weather application that provides current weather information based on the user's input using the OpenWeather API. It includes features such as a search option for users to fetch weather data for other cities, and a toggle for dark mode and light mode.
-
-## Features
-
-- Display current location, temperature, date, time, wind speed, and a detailed weather description.
+<<<<<<<HEAD
 - Search functionality to fetch and display weather information for the entered location.
+=======
+- Search option for users to fetch weather data for other cities.
+>>>>>>> origin/main
+
 - Dark mode and light mode toggle.
 - Responsive design that works well on various devices (desktop, tablet, mobile).
 
@@ -46,9 +44,9 @@ The application gracefully handles API errors adn provides feedback to the use i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Akhiladara/Weather-App.git
 
 
 ### Acknowledgements
 - OpenWeather API for providing the weather data.
-- React for the powerful JvaScript library for building use interfaces.
+- React for the powerful JvaScript library for building use interfaces.
