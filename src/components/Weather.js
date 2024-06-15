@@ -28,8 +28,8 @@ const Weather = ({darkMode}) => {
   return (
     <div className={darkMode ? 'weather-container dark-mode' : 'weather-container'}>
       <div className='heading-card'>
-        <img src="https://cdn.pixabay.com/photo/2021/01/24/20/21/cloud-5946381_1280.jpg" alt="weather"  className='cloud-image'/>
-        <h1 className='weather-heading'>Weather <br/> App</h1>
+      <img src="https://cdn.pixabay.com/photo/2021/01/24/20/21/cloud-5946381_1280.jpg" alt="weather"  className='cloud-image'/>
+      <h1 className='weather-heading'>Weather App</h1>
       </div>
       <input
         type="text"
